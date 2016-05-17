@@ -17,7 +17,8 @@
         "backbee/demo-bundle": "~1.1.0",
         "backbee/toolbar-bundle": "~1.1.0",
         "badcow/lorem-ipsum": "~1.1.0",
-        "eric-chau/bijective": "dev-master"
+        "eric-chau/bijective": "dev-master",
+        "lp-digital/favorite-bundle": "dev-master"
     },
     "autoload": {
         "psr-4": {

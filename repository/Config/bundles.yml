@@ -1,3 +1,4 @@
 # bundles configuration
 demo: BackBee\Bundle\DemoBundle\Demo
 toolbar: BackBee\Bundle\ToolbarBundle\Toolbar
+fav: LpDigital\Bundle\FavoriteBundle\FavoriteBundle
